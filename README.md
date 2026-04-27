@@ -9,10 +9,10 @@ and compete to get better every day.
 ## Who I Am
 
 I picked up basketball at 4, baseball at 12, and now I train MMA.
-That same mentality of showing up, putting in the work, and improving
+That same mentality of competing with others, putting in the work, and improving
 through repetition is how I approach programming. I am drawn to
 low-level systems and backend development because I like understanding
-exactly how things work under the hood, not just making them work.
+exactly how things work behind the scenes, not just making them work.
 
 ## What I Am Working With
 
