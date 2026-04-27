@@ -25,8 +25,8 @@ exactly how things work behind the scenes, not just making them work.
 | Project | Language | Description |
 |---|---|---|
 | [Word Ladder Game & Solver](https://github.com/RoonMerakai/Linked-list---Word-Game) | C | Terminal word puzzle with BFS solver and 100k+ word dictionary |
-| Connect 4 Game Engine | C++ | Game engine with minimax AI opponent |
-| Customer File Manager | Java | App to read, write and search CSV customer records |
+| [Connect Four Game Engine](https://github.com/RoonMerakai/Connect-Four-Game) | C++ | Game engine with minimax AI opponent |
+| [Spelling Bee Game & Solver](https://github.com/RoonMerakai/Spelling-Bee-Game) | C | Generalized NYT Spelling Bee with brute force and optimized recursive solver |
 
 ## GitHub Stats
 
