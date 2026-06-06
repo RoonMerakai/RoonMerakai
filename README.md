@@ -27,6 +27,7 @@ exactly how things work behind the scenes, not just making them work.
 | [Word Ladder Game & Solver](https://github.com/RoonMerakai/Linked-list---Word-Game) | C | Terminal word puzzle with BFS solver and 100k+ word dictionary |
 | [Connect Four Game Engine](https://github.com/RoonMerakai/Connect-Four-Game) | C++ | Game engine with minimax AI opponent |
 | [Spelling Bee Game & Solver](https://github.com/RoonMerakai/Spelling-Bee-Game) | C | Generalized NYT Spelling Bee with brute force and optimized recursive solver |
+| [Spotify Terminal Controller](https://github.com/RoonMerakai/SpotifyTerminalController) | C++17 | CLI app controlling Spotify playback via OAuth 2.0 and REST API |
 
 ## GitHub Stats
 
